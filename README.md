@@ -28,7 +28,7 @@ features to your application.
   Leia com atenção e siga os passos descritos abaixo. Em caso de problemas, entre em contato comigo pelo meu e-mail que se encontra no final deste tutorial.
 </p>
 <p>
-  Primeiramente faça o download do arquivo e descompacte. Em seguida, mova o arquivo descompactado para o diretório de seu servidor local, por exemplo, no xampp coloque-o dentro da pasta htdocs. Não esqueça de starta seu apache e o MySQL.
+  Primeiramente faça o download do arquivo e descompacte. Em seguida, mova o arquivo descompactado para o diretório de seu servidor local, por exemplo, no xampp coloque-o dentro da pasta htdocs. Não esqueça de startar seu apache e o MySQL.
 </p>
 <p>
   Para configuração do banco de dados do sistema, vai na pasta config do projeto, em seguida, abra o arquivo db.php. Nele, você pode colocar o nome do usuario do banco em username, que em um servidor local é root por padrão, o password se caso sua conexão com seu banco exige uma senha, em caso contrário deixe em branco. Em 'dsn' => 'mysql:host=localhost;dbname=crudYii2', o crudYii2 é o nome que coloquei para o banco que em seguida você irá criar, mas se caso queira mudar o nome do banco, mude o nome crudYii2 por outro nome que achar melhor. Agora abra seu gerenciador de banco de dados e crie o banco com o mesmo nome que usou para a configuração que acabamos de ver. O nome que dei foi crudYii2.
