@@ -25,7 +25,7 @@ features to your application.
 <hr>
 <h2 align="center">Instrução</h2>
 <p>
-  Leia com atenção e siga os passos descritos abaixo. Em caso de problemas, entre em contato comigo pelo meu e-mail que se encontra no final deste tutorial. É necessário que o composer esteja instalado, caso não tenha, <a href="https://getcomposer.org/download/">clique aqui</a> para baixar.
+  Leia com atenção e siga os passos descritos abaixo. Em caso de problemas, entre em contato comigo pelo meu e-mail que se encontra no final deste tutorial. É necessário que o composer esteja instalado, caso não tenha, <a target="_blank" href="https://getcomposer.org/download/">clique aqui</a> para baixar.
 </p>
 <p>
   Primeiramente faça o download do arquivo e descompacte. Em seguida, mova o arquivo descompactado para o diretório de seu servidor local, por exemplo, no xampp coloque-o dentro da pasta htdocs. Não esqueça de startar seu apache e o MySQL.
